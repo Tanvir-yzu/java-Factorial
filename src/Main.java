@@ -7,6 +7,7 @@ public class Main {
         MyClass.Number();
         int number = 5;
         long factorial = factorialCalculator.calculateFactorial(number);
+        
         System.out.println("Factorial of " + number + " is: " + factorial);
     }
 }
