@@ -4,7 +4,6 @@ public class Main {
         Factorial factorialCalculator = new Factorial();
         MyClass.doSomething();
         MyClass.someTest();
-        
         MyClass.Number();
         int number = 5;
         long factorial = factorialCalculator.calculateFactorial(number);
